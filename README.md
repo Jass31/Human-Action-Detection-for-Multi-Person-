@@ -149,6 +149,43 @@ project-root/
 
 - Limited by model's training dataset
 
+## Demo
+
+Here are sample action classification results from our multi-person pose detection system:
+<table>
+  <tr>
+    <td align="center">
+      <strong>Walking Action</strong><br>
+      <video width="250" controls>
+        <source src="output/walking_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td align="center">
+      <strong>Running Action</strong><br>
+      <video width="250" controls>
+        <source src="output/running_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Jumping Action</strong><br>
+      <video width="250" controls>
+        <source src="output/jumping_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td align="center">
+      <strong>Standing Action</strong><br>
+      <video width="250" controls>
+        <source src="output/standing_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+</table>
 
 ## Acknowledgments
 
