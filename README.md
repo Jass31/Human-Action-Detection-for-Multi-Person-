@@ -160,7 +160,7 @@ Here are sample action classification results from our multi-person pose detecti
     </td>
     <td align="center">
       <strong>Punching Action</strong><br>
-      <img src="output/annotated_output_punch.gif" width="250" alt="Punching Action">
+      <img src="output/annotated_output_puch.gif" width="250" alt="Punching Action">
     </td>
   </tr>
   <tr>
