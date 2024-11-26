@@ -42,9 +42,8 @@ This project implements a real-time multi-person pose classification system usin
 
 ```bash
 
-git clone https://github.com/[YOUR_USERNAME]/multi-person-pose-classification.git
+git clone https:(https://github.com/Jass31/Human-Action-Detection-for-Multi-Person-.git)
 
-cd multi-person-pose-classification
 
 ```
 
