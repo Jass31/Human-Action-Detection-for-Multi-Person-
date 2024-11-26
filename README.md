@@ -156,33 +156,21 @@ Here are sample action classification results from our multi-person pose detecti
   <tr>
     <td align="center">
       <strong>Walking Action</strong><br>
-      <video width="250" controls>
-        <source src="output/annotated_output_walk.mov" type="video/mov">
-        Your browser does not support the video tag.
-      </video>
+      <img src="output/annotated_output_walk.gif" width="250" alt="Walking Action">
     </td>
     <td align="center">
       <strong>Punching Action</strong><br>
-      <video width="250" controls>
-        <source src="output/annotated_output_punch.mov" type="video/mov">
-        Your browser does not support the video tag.
-      </video>
+      <img src="output/annotated_output_punch.gif" width="250" alt="Punching Action">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Jumping Action</strong><br>
-      <video width="250" controls>
-        <source src="output/annotated_output_jump.mov" type="video/mmov">
-        Your browser does not support the video tag.
-      </video>
+      <img src="output/annotated_output_jump.gif" width="250" alt="Jumping Action">
     </td>
     <td align="center">
       <strong>Kicking Action</strong><br>
-      <video width="250" controls>
-        <source src="output/annotated_output_kick.mov" type="video/mov">
-        Your browser does not support the video tag.
-      </video>
+      <img src="output/annotated_output_kick.gif" width="250" alt="Kicking Action">
     </td>
   </tr>
 </table>
